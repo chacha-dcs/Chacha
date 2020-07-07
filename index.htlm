@@ -77,7 +77,11 @@ for (var z=10; z<= 20; z++){
 // EXERCIE 5 
 
 <?php
-echo 'hello word'; ?>
+<head>
+<title> hellow word </title>
 
-for ( hello word = 0; i <10; hello word+++)
+while ($nombre_de_lignes <= 10)
+{
+echo 'hello word'.<br/>';
+$nombre_de_lignes++; // $nombre_de_lignes = $nombre_de_lignes + 1} ?>
 { console.log (hello word);}
